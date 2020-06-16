@@ -5,11 +5,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.logging.Logger;
 
+import org.bukkit.ChatColor;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
-
-import net.md_5.bungee.api.ChatColor;
 
 public final class Globals {
 	public static Logger log;
